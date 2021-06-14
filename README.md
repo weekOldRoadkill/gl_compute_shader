@@ -11,7 +11,7 @@ PROJECT IS LINUX ONLY!!!!
 Building
 ---
 
-To compile to Linux you must run:
+To compile you must run:
 ```sh
 python build.py
 
