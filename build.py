@@ -33,7 +33,6 @@ if(platform.system() != "Linux"):
 	print("OS not supported.")
 	exit()
 
-run("mkdir", "build")
 run("clear")
 # ------------
 
